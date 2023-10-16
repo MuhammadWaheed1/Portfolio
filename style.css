@@ -1,0 +1,26 @@
+.back-image{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius: 0px;
+    margin-top: 55px;
+}
+.navbar-brand{
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+.navbar #myMenue .custom-nav .nav-item a{
+    color: white;
+}
+.navbar #myMenue .custom-nav .nav-item a:hover {
+    color: #f0aab1;
+}
+/* Change Link Colour */
+a {
+    color: #DC3545;
+}
+.st{
+    font-size: 24px;
+}
